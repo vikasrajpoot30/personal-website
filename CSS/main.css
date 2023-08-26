@@ -1,0 +1,31 @@
+.site-header {
+  background-color: rgb(32, 139, 105);
+  color: #ecfdf9;
+  height: 100vh;
+  font-size: small;
+  font-family: monospace;
+  display:flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  
+
+}
+
+.site-header-content {
+  margin: 10px;
+}
+.profile-pic {
+  border-color: rebeccapurple;
+  border-radius: 70%;
+  height: 250px;
+  width: 220px;
+  align-self:center;
+  box-shadow: #0024ec 2px 5px 5px;
+}
+.contact-link{
+  color: whitesmoke;
+}
+body {
+  margin: 0;
+}
